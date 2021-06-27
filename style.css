@@ -11,6 +11,7 @@
 }
 html {
   font-size: 15px;
+  background-color: #f2f2f2;
 }
 @media (min-width: 38em) {
   html {
